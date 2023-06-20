@@ -1,0 +1,25 @@
+﻿extensions: designer.cs generated.cs
+extensions: .cs .cpp .h
+/******************************************************************************
+*  Copyright (C), 2017-2019,Advanced Technology Institute of Suzhou. 
+*  THIS IS AN UNPUBLISHED WORK CONTAINING CONFIDENTIAL AND PROPRIETARY 
+*   
+*******************************************************************************
+*  File Name: %FileName%
+*  Author: cg.zhang@atisz.ac.cn
+*  Version: 1.0.0
+*  Date: %CurrentYear%-%CurrentMonth%-%CurrentDay%
+*  Description: brief
+*  History: 
+******************************************************************************/
+
+extensions: .aspx .ascx
+<%-- 
+Copyright (c) 2011 rubicon IT GmbH
+--%>
+extensions: .vb
+'Sample license text.
+extensions:  .xml .config .xsd
+<!--
+Sample license text.
+-->
